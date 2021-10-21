@@ -10,3 +10,6 @@ A: This could be because you have an antivirus that is diabling it, just set the
 
 Q: It crashes my game
 A: Try restating your computer or deleting the file and downloading it again.
+
+# Credits
+this was made to learn C++, the tutorial is https://www.youtube.com/watch?v=Fq3eaGYUvNs by Cyborg Elf
